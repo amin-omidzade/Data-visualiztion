@@ -2,7 +2,6 @@
 # Jan 27 2026
 
 # Import essential libraries
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -14,7 +13,6 @@ except Exception as e:
     print(e)
 
 # Getting ID of ucstomers Example : 1402100330 (True)
-
 customerIDInput = int(input("Please enter your customer ID!"))
 
 # Taking all customers purchases
